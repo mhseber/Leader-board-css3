@@ -1,9 +1,16 @@
 .top-up {
     display: flex;
-    background-color: #624ace;
 
+    background-color: #624ace;
+    padding-bottom: 70px;
 }
 
+.head {
+    display: flex;
+    text-decoration: wavy;
+    margin-left: 600px;
+    color: white;
+}
 
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
